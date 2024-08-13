@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/14ff1712bf87ce40712403677a37f978f3722b8ca7237b3130e46c82663b5d1f/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f30322f707974686f6e2d666f722d7765622d646576656c6f706d656e742e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayantjagtap001&label=Profile%20views&color=0e75b6&style=flat" alt="jayantjagtap001" /> </p>
 
-- 👨‍💻 All of my projects are available at [jayant-portfolio-24.netlify.app](jayant-portfolio-24.netlify.app)
+- 👨‍💻 All of my projects are available at [jayant-portfolio-24.netlify.app]([jayant-portfolio-24.netlify.app](https://github.com/jayantjagtap001))
 
 - 📫 How to reach me **jayantjagtap001@gmail.com**
 
