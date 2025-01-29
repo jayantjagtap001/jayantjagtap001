@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wKe2TsMkAJArVeJEJo5hT8S9Cvt5jQFy/view?usp=sharing](https://drive.google.com/file/d/1wKe2TsMkAJArVeJEJo5hT8S9Cvt5jQFy/view?usp=sharing)
 
--💻 Visit my <a href="jayant-portfolio-24.netlify.app"> for more details about me.
+-💻 Visit my [jayant-portfolio-24.netlify.app](jayant-portfolio-24.netlify.app) for more details about me.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
