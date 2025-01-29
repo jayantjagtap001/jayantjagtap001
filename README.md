@@ -9,6 +9,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wKe2TsMkAJArVeJEJo5hT8S9Cvt5jQFy/view?usp=sharing](https://drive.google.com/file/d/1wKe2TsMkAJArVeJEJo5hT8S9Cvt5jQFy/view?usp=sharing)
 
+-💻 Visit my <a href="jayant-portfolio-24.netlify.app"> for more details about me.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jayant-jagtap-13feb2000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jayant-jagtap-13feb2000/" height="30" width="40" /></a>
