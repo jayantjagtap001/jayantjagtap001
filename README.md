@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jayant sanjay jagtap</h1>
 <h3 align="center">A passionate MERN developer.</h3>
-<img align="right" alt="coding" width="400" src="[https://camo.githubusercontent.com/14ff1712bf87ce40712403677a37f978f3722b8ca7237b3130e46c82663b5d1f/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f30322f707974686f6e2d666f722d7765622d646576656c6f706d656e742e676966](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTinEuCgZxRfKj8Pxs3JnGkjJMg7uHPyuZWdw&s)">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/b7d661ef1eda51454a7882bb4d5b33797ebc97a36bbbfc58cefbbb595bdae62b/68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f707065722e7073642e66756c6c2e706e67">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayantjagtap001&label=Profile%20views&color=0e75b6&style=flat" alt="jayantjagtap001" /> </p>
 
 - 👨‍💻 All of my projects are available at [jayant-portfolio-24.netlify.app](jayant-portfolio-24.netlify.app)
