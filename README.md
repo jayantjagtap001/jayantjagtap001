@@ -3,13 +3,13 @@
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/b7d661ef1eda51454a7882bb4d5b33797ebc97a36bbbfc58cefbbb595bdae62b/68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f707065722e7073642e66756c6c2e706e67">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayantjagtap001&label=Profile%20views&color=0e75b6&style=flat" alt="jayantjagtap001" /> </p>
 
-- 👨‍💻 All of my projects are available at [jayant-portfolio-24.netlify.app](jayant-portfolio-24.netlify.app)
+- 👨‍💻 All of my projects are available at [jayant-portfolio-24.netlify.app](https://jayant-portfolio-24.netlify.app/)
 
 - 📫 How to reach me **jayantjagtap001@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wKe2TsMkAJArVeJEJo5hT8S9Cvt5jQFy/view?usp=sharing](https://drive.google.com/file/d/1wKe2TsMkAJArVeJEJo5hT8S9Cvt5jQFy/view?usp=sharing)
 
--💻 Visit my [jayant-portfolio-24.netlify.app](jayant-portfolio-24.netlify.app) for more details about me.
+-💻 Visit my [Portfolio](https://jayant-portfolio-24.netlify.app/) for more details about me.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
