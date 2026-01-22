@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jayant sanjay jagtap</h1>
 <h3 align="center">A passionate MERN developer.</h3>
-<img align="right" alt="coding" width="400" src="[https://camo.githubusercontent.com/b7d661ef1eda51454a7882bb4d5b33797ebc97a36bbbfc58cefbbb595bdae62b/68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f707065722e7073642e66756c6c2e706e67](https://www.freepik.com/free-vector/hand-drawn-web-developers_12063795.htm#fromView=search&page=1&position=24&uuid=ce306209-c284-458b-896b-722f4c3627f4&query=Github+character+for+dev)">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayantjagtap001&label=Profile%20views&color=0e75b6&style=flat" alt="jayantjagtap001" /> </p>
 
 - 👨‍💻 All of my projects are available at [jayant-portfolio-24.netlify.app](https://jayant-portfolio-24.netlify.app/)
