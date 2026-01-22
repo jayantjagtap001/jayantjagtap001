@@ -15,7 +15,7 @@
 - 🌱 Always learning and improving my **full-stack development skills**
 
 ### 🔗 Portfolio & Resume
-- 🌐 **Portfolio:** [jayant-portfolio-24.netlify.app](https://jayant-portfolio-24.netlify.app/)
+- 🌐 **Portfolio:** [jayant-portfolio-24.netlify.app](https://jayant-port001.netlify.app/)
 - 📄 **Resume:** [View Here](https://drive.google.com/file/d/1wKe2TsMkAJArVeJEJo5hT8S9Cvt5jQFy/view?usp=sharing)
 - 📫 **Email:** **jayantjagtap001@gmail.com**
 
