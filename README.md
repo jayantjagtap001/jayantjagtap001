@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jayant Sanjay Jagtap</h1>
-<h3 align="center">🚀 Passionate MERN Stack Developer | Frontend & Backend Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2088FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Tech+Explorer" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jayantjagtap001&label=Profile%20views&color=0e75b6&style=flat" alt="jayantjagtap001" />
@@ -65,11 +67,12 @@
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayantjagtap001&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jayantjagtap001&show_icons=true&locale=en" />
-</p>
+<h3 align="left">📊 GitHub Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jayantjagtap001&show_icons=true&locale=en&theme=radical" alt="jayantjagtap001" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayantjagtap001&show_icons=true&locale=en&layout=compact&theme=radical" alt="jayantjagtap001" height="150" />
+</div>
+<div align="center">
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayantjagtap001&theme=radical" alt="jayantjagtap001" />
+</div>
