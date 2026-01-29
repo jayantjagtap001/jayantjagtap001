@@ -10,9 +10,12 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
 ### 👨‍💻 About Me
-- 💡 MERN Stack Developer with hands-on experience in **React, Node.js, MongoDB & Express**
-- 🧩 Love building **scalable web applications & clean UI**
-- 🌱 Always learning and improving my **full-stack development skills**
+- 🚀 **Full Stack MERN Developer** with strong hands-on experience in **React, Node.js, Express & MongoDB**
+- 🧠 Skilled in building **scalable, high-performance web applications** with clean and maintainable code
+- 🎨 Passionate about creating **user-friendly interfaces** and smooth user experiences
+- 🔄 Comfortable working across **frontend, backend & database** layers
+- 🌱 Continuously learning modern technologies and best practices to grow as a developer
+
 
 ### 🔗 Portfolio & Resume
 - 🌐 **Portfolio:** [jayant-portfolio-24.netlify.app](https://jayant-port001.netlify.app/)
